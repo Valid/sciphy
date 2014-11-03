@@ -1,0 +1,5 @@
+{
+  id: 'eukaryotes',
+  name: 'Eukaryotes',
+  type: 'domain'
+}

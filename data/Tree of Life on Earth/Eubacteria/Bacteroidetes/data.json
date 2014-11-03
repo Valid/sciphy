@@ -1,0 +1,5 @@
+{
+  id: 'bacteroidetes',
+  name: 'Bacteroidetes',
+  type: 'plylum'
+}
